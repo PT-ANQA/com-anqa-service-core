@@ -1,1 +1,1 @@
-# com-anqa-service-core
+# com-batiksolo-service-core
