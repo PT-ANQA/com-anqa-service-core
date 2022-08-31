@@ -1,0 +1,4 @@
+ignore:
+  - "Com.Anqa.Service.Core.Lib/Migrations"
+  - "Com.Anqa.Service.Core.WebApi/Startup.cs"
+  - "Com.Anqa.Service.Core.Test"
