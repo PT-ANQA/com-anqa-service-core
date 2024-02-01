@@ -19,7 +19,7 @@ namespace Com.Anqa.Service.Core.Lib.Services
         {
             string storageAccountName = APIEndpoint.StorageAccountName;
             string storageAccountKey = APIEndpoint.StorageAccountKey;
-            string storageContainer = "Anqa-product-image";
+            string storageContainer = "anqa-product-image";
 
             this.ServiceProvider = serviceProvider;
             this.StorageAccount = new CloudStorageAccount(new StorageCredentials(storageAccountName, storageAccountKey), useHttps: true);
